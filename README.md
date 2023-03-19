@@ -1,4 +1,5 @@
 # DogeWhisperer
-Aplicación Shiny para el estudio predictivo de criptodivisas. 
 
-https://alejandrongs7.shinyapps.io/dogewhisperer/
+This Shiny application was developed as a Master's Final Project for the Master's Degree in Big Data at the Complutense University of Madrid. Through it the user will be able to study predictions of short term changes in different cryptocurrencies using LSTM.
+
+If you want to access the app and give a try, use the following link: https://alejandrongs7.shinyapps.io/dogewhisperer/
